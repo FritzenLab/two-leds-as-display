@@ -88,13 +88,8 @@ void loop() {
       blinkingtens= true;
       enteredtens = false;
       enteredunit = false;
-    }
-
+    }  
     
-    
-      
-    
-
     //-----------------------
     // End of your code
   }
